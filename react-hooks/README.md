@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It does require the latest versions of React and ReactDOM. You will need to type this command in command line:
+
+npm i -S react@16.7.0-alpha.2 react-dom@16.7.0-alpha.2
 
 ## Available Scripts
 
