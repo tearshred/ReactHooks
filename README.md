@@ -4,7 +4,7 @@ Testing new React hooks.
 
 This project was bootstrapped with Create React App. It does require the latest versions of React and ReactDOM. You will need to type this command in command line:
 
-npm i -S react@16.7.0-alpha.2 react-dom@16.7.0-alpha.2
+> npm i -S react@16.7.0-alpha.2 react-dom@16.7.0-alpha.2
 
 Available Scripts
 In the project directory, you can run:
